@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mnspEcu3EmEf/DNDYHbJk8knMX1u3quVCFng2nffe/T29iDI2QekuwymTDIOmARn8tEWQVSorQBoLpPKRch46A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\Dropbox\\Facultad\\Taller de Lenguajes 1\\TP9\\tl1_tp9_2023-IvanDMir\\tp9\\tp9.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.7\\microsoft.netcore.app.ref.7.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}
